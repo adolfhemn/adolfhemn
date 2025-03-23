@@ -193,3 +193,4 @@ Password: Hemn1995
 
 Discord Tokens:
 Discord User Data:
+Application Credentials:
