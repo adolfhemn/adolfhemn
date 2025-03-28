@@ -1,1 +1,4 @@
-
+Passwords:
+Discord Tokens:
+Discord User Data:
+Application Credentials:
