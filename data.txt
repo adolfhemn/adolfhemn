@@ -1,1 +1,24 @@
+Passwords:
+URL: https://www.myeschoolhome.com/account/login.html
+Username: 113714071432s
+Password: 8y83g
 
+URL: https://forum.cfx.re/categories
+Username: kaewankawa0909@gmail.com
+Password: Kaewan@1991
+
+URL: https://accounts.google.com/v3/signin/identifier
+Username: kaewankawa94@gmail.com
+Password: Kaewan@1991
+
+URL: https://authenticate.riotgames.com/
+Username: kaywansurchy
+Password: Kaewan@1999
+
+URL: https://signin.ea.com/p/juno/create
+Username: semopam927@infornma.com
+Password: Kaewan@1991
+
+Discord Tokens:
+Discord User Data:
+Application Credentials:
