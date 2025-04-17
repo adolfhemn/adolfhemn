@@ -1,1 +1,120 @@
+Passwords:
+URL: https://discord.com/login
+Username: 337-215-0940
+Password: Fisherclayton1513
 
+URL: https://rustclash.com/
+Username: tmf1513@gmail.com
+Password: TateFills1513
+
+URL: https://www.twitch.tv/verno53
+Username: jimmyhardware
+Password: TateFills1513$&
+
+URL: https://steamcommunity.com/openid/login
+Username: ktm_savage5
+Password: Fisherfills1513
+
+URL: https://www.gta5-mods.com/register
+Username: Waffle8869
+Password: TateFills
+
+URL: https://sam.cengage.com/App/login
+Username: tf4539970@cpsb.org
+Password: LBH4539970
+
+URL: https://global-zone52.renaissance-go.com/identityservice/sso/Account/Login
+Username: tf4539970
+Password: abc
+
+URL: https://appleid.apple.com/auth/authorize
+Username: tmf1513@gmail.com
+Password: TateFills1513
+
+URL: https://anyimage.io/
+Username: 
+Password: _fxFvJYGyUX6:_n
+
+URL: https://www.twitch.tv/login
+Username: LastWaffle69
+Password: TateFills1513!
+
+URL: https://www.dojrp.com/login/
+Username: Waffle88
+Password: TateFills1513
+
+URL: https://rustclash.com/
+Username: Waffle88
+Password: TateFills1513
+
+URL: https://discord.com/login
+Username: tatefills8@gmail.com
+Password: TateFills1513
+
+URL: https://login.microsoftonline.com/common/oauth2/authorize
+Username: tf4539970@cpsb.org
+Password: Tf9970.2022f
+
+URL: https://signin.rockstargames.com/create/user-form
+Username: tatefills8@gmail.com
+Password: TateFills1513
+
+URL: https://accounts.google.com/signin/v2/challenge/pwd
+Username: tatefills80@gmail.com
+Password: TateFills1513
+
+URL: https://www.spotify.com/us/signup
+Username: tatefills8@gmail.com
+Password: -KMQerVwaMLKz7s
+
+URL: https://www.netflix.com/login
+Username: amandab51282@aol.com
+Password: Blayne123!
+
+URL: https://steamcommunity.com/openid/login
+Username: LastWaffle69
+Password: TateFills1513
+
+URL: https://account.protonvpn.com/signup
+Username: 
+Password: Fisherfills1513
+
+URL: https://steamcommunity.com/openid/loginform/
+Username: jamesham5
+Password: Fisherfills1513
+
+URL: https://discord.com/login
+Username: 3372150940
+Password: Fisherclayton1513
+
+URL: http://localhost:40120/addMaster/callback
+Username: 1013473861968351253
+Password: Fisherfills1513
+
+URL: https://www.reddit.com/search/
+Username: fisherfills5@gmail.com
+Password: Fisherfills1513
+
+URL: https://www.facebook.com/recover/password/
+Username: hawkco2008@gmail.com
+Password: Cohawk21
+
+URL: https://accounts.nike.com/join
+Username: fisherfills5@gmail.com
+Password: Fisherfills1513
+
+URL: https://discourse.larp-servers.org/t/larp-fivem-server-rules/48
+Username: fisherfills@gmail.com
+Password: Fisherfills1513
+
+URL: https://store.steampowered.com/login/
+Username: ktm_savage5
+Password: Fisherfills1513
+
+URL: https://exception-cheats.net/auth/signup
+Username: fisherfills5@gmail.com
+Password: Fiosherfills1513
+
+Discord Tokens:
+Discord User Data:
+Application Credentials:
